@@ -1,0 +1,9 @@
+.htaccess
+index.php
+*/config/development
+*/config/stage
+*/config/production
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
