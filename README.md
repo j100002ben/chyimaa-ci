@@ -1,4 +1,4 @@
-GLOnly-CI
+Chyimaa-CI
 =========
 
-Glonly website using php with Codeigniter.
+Chyimaa website using php with Codeigniter.
